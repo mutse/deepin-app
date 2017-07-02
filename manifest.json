@@ -1,0 +1,14 @@
+{
+    "description": "Deepin Linux Community WebApp",
+    "framework": "ubuntu-sdk-15.04",
+    "hooks": {
+        "deepin-app" : {
+            "apparmor": "apparmor.json",
+            "desktop": "deepin-app.desktop"
+        }
+    },
+    "maintainer": "Mutse Young <yyhoo2.young@gmail.com>",
+    "name": "deepin-app.mutse",
+    "title": "Deepin App",
+    "version": "0.1"
+}

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Deepin App
+Name[zh_CN]=深度社区
+Type=Application
+Icon=icon.png
+Exec=qmlscene %u qml/Main.qml
+Terminal=false
+X-Ubuntu-Touch=true
